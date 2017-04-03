@@ -2,7 +2,7 @@
 OVP News
 ==========
 
-.. image:: https://img.shields.io/codeship/{uuid}/master.svg?style=flat-square
+.. image:: https://img.shields.io/codeship/436d3220-fac8-0134-ef58-5e3da101c157/master.svg?style=flat-square
 .. image:: https://img.shields.io/codecov/c/github/OpenVolunteeringPlatform/django-ovp-news.svg?style=flat-square
   :target: https://codecov.io/gh/OpenVolunteeringPlatform/django-ovp-news
 .. image:: https://img.shields.io/pypi/v/ovp-news.svg?style=flat-square
