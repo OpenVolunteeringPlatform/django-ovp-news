@@ -2,3 +2,4 @@ codecov==2.0.5
 coverage==4.3.4
 Django==1.10.5
 ovp_core==1.2.4
+ovp_users==1.1.4
