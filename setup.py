@@ -21,5 +21,6 @@ setup(
       'djangorestframework-jwt>=1.8.0,<2.0.0',
       'ovp-core>=1.2.4,<2.0.0',
       'ovp-users>=1.1.4,<2.0.0',
+      'ovp-uploads>=1.0.3,<2.0.0',
     ]
 )
